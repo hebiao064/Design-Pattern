@@ -26,8 +26,6 @@ namespace DesignPattern
             // 2. Observer Pattern
             RunObserverPatternDemo();
 
-            // 3. Other Pattern
-
             Console.WriteLine("Hello World!");
         }
 
